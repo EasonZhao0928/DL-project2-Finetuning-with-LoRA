@@ -1,5 +1,9 @@
 # DL-project2-Finetuning-with-LoRA
 
+## Code
+
+Our code can be found at notebooknew.ipynb.
+
 ## Team Members
 - Yucheng Zhao
 - Zhiding Zhou
